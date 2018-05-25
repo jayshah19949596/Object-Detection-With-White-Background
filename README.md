@@ -26,7 +26,7 @@ shortcoming of your solution.
 ### Dataset
 
 Sample data sequence 1:
-![Sample-1](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample1/sample1)
+[Sample-1](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample1/sample1)
 
 Sample data sequence 2:
-![Sample-2](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample2/sample2)
+[Sample-2](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample2/sample2)
