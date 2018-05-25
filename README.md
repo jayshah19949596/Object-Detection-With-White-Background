@@ -26,7 +26,7 @@ shortcoming of your solution.
 ### Dataset
 
 Sample data sequence 1:
-https://www.dropbox.com/s/dx8f5ng4ui0aroi/sample1.zip?dl=0
+![Sample-1](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample1/sample1)
 
 Sample data sequence 2:
-https://www.dropbox.com/s/njevjwkkhprnfeg/sample2.zip?dl=0
+![Sample-2](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample2/sample2)
