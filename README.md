@@ -36,11 +36,11 @@ Sample data sequence 2:
 ---
 
 
- <center> <h2> **1] Results on Sample1 DATASET**  </h2> </center>
-    <img src="https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample1Result1.png"
-alt="Navigation drawer" width="300" height="540" border="10" />
+ <center> <h2> 1] Results on Sample1 DATASET  </h2> </center>
+    <center> <img src="https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample1Result1.png"
+alt="Navigation drawer" width="300" height="540" border="10" /></center>
 
-  <center><h2> **1] Results on Sample2 DATASET**  </h2></center>
-  <img src="https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample2Res2.png"
-alt="Navigation drawer" width="300" height="540" border="10" />
+  <center><h2> 1] Results on Sample2 DATASET  </h2></center>
+  <center><img src="https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample2Res2.png"
+alt="Navigation drawer" width="300" height="540" border="10" /></center>
 
