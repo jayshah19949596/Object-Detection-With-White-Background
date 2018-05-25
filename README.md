@@ -38,7 +38,7 @@ Sample data sequence 2:
 [image2]: ./image_resources/Sample2Res2.png "Sample2 Results2"
 
  <center> <h2> **1] Results on Sample1 DATASET**  </h2> </center>
-    ![Sample1 Results1][image1]
+    ![Sample1 Results1](https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample1Result1.png)
 
   <center><h2> **1] Results on Sample2 DATASET**  </h2></center>
-    ![Sample2 Results2][image2]
+    ![Sample2 Results2](https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample2Res2.png)
