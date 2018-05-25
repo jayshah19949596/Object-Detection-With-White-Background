@@ -2,7 +2,7 @@
 -----
  
 ### Problem Description 
-
+---
  - We have a system that produces a stream of frames such that each frame is a solid white background with some 2d objects in the foreground.
  - The stream of successive frames describes the movement of these objects with in the image across time.
  - Here is an example of the kind of images that our system produces.
@@ -24,9 +24,21 @@ trade-offs you had to consider when writing your solution and your sense of the 
 shortcoming of your solution.
  
 ### Dataset
-
+---
 Sample data sequence 1:
 [Sample-1](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample1/sample1)
 
 Sample data sequence 2:
 [Sample-2](https://github.com/jayshah19949596/Object-Detection-With-White-Background/tree/master/sample2/sample2)
+
+
+### Results
+---
+[image1]: ./image_resources/Sample1Result1.png "Sample1 Results1"
+[image2]: ./image_resources/Sample2Res2.png "Sample2 Results2"
+
+ <center> <h2> **1] Results on Sample1 DATASET**  </h2> </center>
+    ![Sample1 Results1][image1]
+
+  <center><h2> **1] Results on Sample2 DATASET**  </h2></center>
+    ![Sample2 Results2][image2]
