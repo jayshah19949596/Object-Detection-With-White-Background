@@ -34,11 +34,13 @@ Sample data sequence 2:
 
 ### Results
 ---
-[image1]: ./image_resources/Sample1Result1.png "Sample1 Results1"
-[image2]: ./image_resources/Sample2Res2.png "Sample2 Results2"
+
 
  <center> <h2> **1] Results on Sample1 DATASET**  </h2> </center>
-    ![Sample1 Results1](https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample1Result1.png)
+    <img src="https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample1Result1.png"
+alt="Navigation drawer" width="300" height="540" border="10" />
 
   <center><h2> **1] Results on Sample2 DATASET**  </h2></center>
-    ![Sample2 Results2](https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample2Res2.png)
+  <img src="https://github.com/jayshah19949596/Object-Detection-With-White-Background/blob/master/image_resources/Sample2Res2.png"
+alt="Navigation drawer" width="300" height="540" border="10" />
+
